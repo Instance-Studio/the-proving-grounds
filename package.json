@@ -1,0 +1,22 @@
+{
+  "name": "the-osei-project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "npx mix watch",
+    "build": "npx mix --production"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "browser-sync": "^2.27.9",
+    "browser-sync-webpack-plugin": "^2.3.0",
+    "laravel-mix": "^6.0.43",
+    "resolve-url-loader": "^5.0.0",
+    "sass": "^1.50.0",
+    "sass-loader": "^12.6.0",
+    "laravel-mix-copy-watched": "^2.3.1"
+  },
+  "dependencies": {}
+}

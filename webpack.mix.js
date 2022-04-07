@@ -8,4 +8,4 @@ mix.copyWatched("src/img/**/*", "dist/img");
 mix.setPublicPath("dist");
 
 // Change to your url
-mix.browserSync("the-osei-project.test");
+mix.browserSync("the-proving-grounds.test");
